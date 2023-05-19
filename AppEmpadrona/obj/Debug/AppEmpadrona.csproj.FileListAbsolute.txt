@@ -1,0 +1,13 @@
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.Form1.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\bin\Debug\AppEmpadrona.exe.config
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\bin\Debug\AppEmpadrona.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\bin\Debug\AppEmpadrona.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.frmEmpadronados.resources
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\Nuevo\AppEmpadrona\obj\Debug\AppEmpadrona.frmEmpadronar.resources
